@@ -15,6 +15,11 @@ env/
 .venv/
 
 # =========================
+# Configuration / Secrets
+# =========================
+api/dependencies/config.py
+
+# =========================
 # PyCharm
 # =========================
 .idea/
@@ -35,6 +40,7 @@ build/
 # Environment variables (VERY IMPORTANT)
 # =========================
 .env
+.config
 
 # =========================
 # Databases (common in class SQL work)
